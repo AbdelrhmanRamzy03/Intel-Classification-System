@@ -28,10 +28,12 @@ The model classifies images into the following categories:
 
 ## 🚀 How to Run
 python Tkinter.py (For Tkinter Project)
+
 steamlit run streamlit.py (For Streamlit Project)
 
 ### 🔧 Requirements
 
 Install dependencies using:
 Used DataSet : https://www.kaggle.com/puneet6060/intel-image-classification
+
 pip install streamlit tensorflow pillow numpy Tkinter
