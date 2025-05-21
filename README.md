@@ -34,6 +34,7 @@ steamlit run streamlit.py (For Streamlit Project)
 ### 🔧 Requirements
 
 Install dependencies using:
+
 Used DataSet : https://www.kaggle.com/puneet6060/intel-image-classification
 
 pip install streamlit tensorflow pillow numpy Tkinter
